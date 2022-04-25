@@ -37,7 +37,7 @@ The generated code looks like:
 Parameter can be set empty, `space`  `lf` or `crlf` (when omitting, default is empty):
 
 ``` html
-<cms:spaceless convert=''>
+<cms:spaceless convert='none'>
 <script>
     console.log("Hello world");
 </script>
