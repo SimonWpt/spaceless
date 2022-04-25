@@ -34,7 +34,7 @@ The generated code looks like:
 
 * convert
 
-Parameter can be set empty, `space`  `lf` or `crlf` (when omitting, default is empty):
+Parameter can be set `none`, `space`  `lf` or `crlf` (when omitting, default is `none`):
 
 ``` html
 <cms:spaceless convert='none'>
